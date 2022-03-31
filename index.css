@@ -40,13 +40,13 @@ body {
   line-height: 1.2;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 414px) {
   .container {
     /* max-width: 375px; */
     width: 90%;
     text-align: center;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 70px;
   }
 
   .bar-code img {
